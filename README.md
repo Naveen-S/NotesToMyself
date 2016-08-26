@@ -1,0 +1,2 @@
+# NotesToMyself
+General notes.
